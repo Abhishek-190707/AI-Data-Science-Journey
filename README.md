@@ -23,7 +23,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 01 | Env Setup | VS Code + GitHub Link | ✅ |
 | 02 | Data Types | Grade Calculator | ✅ |
 | 03 | Logic | Smart Grading System | ✅ |
-| 04 | Loops | Data Filter Script | 🚧 In Progress |
+| 04 | Loops | Data Filter Script | ✅ |
 
 ---
 

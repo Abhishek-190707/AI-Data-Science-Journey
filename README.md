@@ -24,6 +24,8 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 02 | Data Types | Grade Calculator | ✅ |
 | 03 | Logic | Smart Grading System | ✅ |
 | 04 | Loops | Data Filter Script | ✅ |
+| 05 | Functions & Modularity | Greeter + Tax Calculator + Logic Filter | ✅ |
+
 
 ---
 

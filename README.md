@@ -26,7 +26,8 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 04 | Loops | Data Filter Script | ✅ |
 | 05 | Functions & Modularity | Greeter + Tax Calculator + Logic Filter | ✅ |
 | 06 | Lists & Data Structures | Dynamic Inventory + Score Analyzer + Data Slicer | ✅ |
-| **07** | **Capstone Project: Unit Converter** | **Built a CLI app using functions, while loops, and error handling to convert units.** | ✅ | 
+| **07** | **Capstone Project: Unit Converter** | **Built a CLI app using functions, while loops, and error handling to convert units** | ✅ | 
+| 08 | Data Structures (Tuples, Sets, Dicts) | Tuples (Fixed), Sets (Unique), and Dictionaries (Key-Value) | ✅ | 
 
 
 
@@ -34,7 +35,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.10+
-- **Environment:** VS Code, Jupyter Notebooks
+- **Environment:** VS Code, Jupyter Notebooks , Google Colab
 - **Libraries (Learning):** NumPy, Pandas, Matplotlib
 
 ---

@@ -29,6 +29,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | **07** | **Capstone Project: Unit Converter** | **Built a CLI app using functions, while loops, and error handling to convert units** | ✅ | 
 | 08 | Data Structures (Tuples, Sets, Dicts) | Tuples (Fixed), Sets (Unique), and Dictionaries (Key-Value) | ✅ | 
 | 09 | File Handling (I/O) | Learned to Read, Write, and Append text files using the 'with' context manager. | ✅ |
+| 10 | Error Handling (Try/Except) | Built robust code using Try/Except/Finally to handle crashes gracefully. | ✅ |
 
 
 ---

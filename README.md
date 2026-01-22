@@ -30,7 +30,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 08 | Data Structures (Tuples, Sets, Dicts) | Tuples (Fixed), Sets (Unique), and Dictionaries (Key-Value) | ✅ | 
 | 09 | File Handling (I/O) | Learned to Read, Write, and Append text files using the 'with' context manager. | ✅ |
 | 10 | Error Handling (Try/Except) | Built robust code using Try/Except/Finally to handle crashes gracefully. | ✅ |
-
+| 11 | Modules & Libraries | Learned to use built-in libraries (Math, Random, Datetime) to extend Python's capabilities. | ✅ |
 
 ---
 

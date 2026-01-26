@@ -32,7 +32,9 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 10 | Error Handling (Try/Except) | Built robust code using Try/Except/Finally to handle crashes gracefully. | ✅ |
 | 11 | Modules & Libraries | Learned to use built-in libraries (Math, Random, Datetime) to extend Python's capabilities. | ✅ |
 | 12 | Intro to NumPy | Replaced Lists with NumPy Arrays. Learned Vectorization and statistical analysis. | ✅ |
-| 13 | **Week 2 Capstone** | Built an Automated Grader. Parsed text files, cleaned data, and generated report cards. | 🏆 Success |  
+| 13 | **Week 2 Capstone** | Built an Automated Grader. Parsed text files, cleaned data, and generated report cards. | 🏆 Success |
+| 14 | **Rest Day** | ⏸️ Recharged | Scheduled break. No code written. |
+| 15 | **Matplotlib Basics** | Created Velocity-Time graphs using `pyplot` & `fivethirtyeight` style. | ✅ |
 
 ---
 

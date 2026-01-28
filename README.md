@@ -36,6 +36,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 14 | **Rest Day** | ⏸️ Recharged | Scheduled break. No code written. |
 | 15 | Matplotlib Basics | Created Velocity-Time graphs using `pyplot` & `fivethirtyeight` style. | ✅ |
 | 16 | Histograms (Distributions) | Built a "Quality Control" chart to analyze factory defect rates using bins and tolerance lines. | ✅ |
+| 17 | Dashboards (Subplots) | Built a "Mission Control" dashboard for a Solar Power Station, visualizing Energy, Voltage, and Battery Storage in a single view. | ✅ |
 
 
 ---

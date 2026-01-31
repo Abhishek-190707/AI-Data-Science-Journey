@@ -39,6 +39,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 17 | Dashboards (Subplots) | Built a "Mission Control" dashboard for a Solar Power Station, visualizing Energy, Voltage, and Battery Storage in a single view. | ✅ |
 | 18 | **Project: File Organizer** | Built a local automation script to clean up directories. Learned `os` for path handling and `shutil` for moving files. | ✅ |
 | 19 | Data Science: NumPy | Mastered Vectorization, Reshaping (1D to 2D), and Boolean Masking. | ✅ |
+| 20 | Data Science: Pandas | Built Student Analysis System using DataFrames & Feature Engineering | ✅ |
 
 
 ---

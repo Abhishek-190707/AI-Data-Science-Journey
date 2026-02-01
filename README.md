@@ -40,6 +40,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 18 | **Project: File Organizer** | Built a local automation script to clean up directories. Learned `os` for path handling and `shutil` for moving files. | ✅ |
 | 19 | Data Science: NumPy | Mastered Vectorization, Reshaping (1D to 2D), and Boolean Masking. | ✅ |
 | 20 | Data Science: Pandas | Built Student Analysis System using DataFrames & Feature Engineering | ✅ |
+| 21 | Data Science: Cleaning | Mastered `fillna` (Imputation) & `dropna` to handle broken datasets | ✅ |
 
 
 ---

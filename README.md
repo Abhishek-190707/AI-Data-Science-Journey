@@ -41,7 +41,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 19 | Data Science: NumPy | Mastered Vectorization, Reshaping (1D to 2D), and Boolean Masking. | ✅ |
 | 20 | Data Science: Pandas | Built Student Analysis System using DataFrames & Feature Engineering | ✅ |
 | 21 | Data Science: Cleaning | Mastered `fillna` (Imputation) & `dropna` to handle broken datasets | ✅ |
-
+| 22 | Data Science: Analysis | Mastered `merge` (Joins) and `groupby` (Pivot Tables) for reporting | ✅ |
 
 ---
 

@@ -45,6 +45,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 23 | Data Science: Visualization | Built Scatter, Bar, and Line charts using Matplotlib & Seaborn | ✅ |
 | 24 | Advanced Selection (.loc/.iloc) | Titanic Manifest Hunt | ✅ |
 | 25 | Transformation & Grouping | Age Categorization & Survival Stats | ✅ |
+| 26 | Merging & Time Series | E-Commerce Data Join | ✅ |
 ---
 
 ## 🛠️ Tech Stack

@@ -46,6 +46,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 24 | Advanced Selection (.loc/.iloc) | Titanic Manifest Hunt | ✅ |
 | 25 | Transformation & Grouping | Age Categorization & Survival Stats | ✅ |
 | 26 | Merging & Time Series | E-Commerce Data Join | ✅ |
+| 27 | Feature Engineering | Titanic Project V2 (Title Extraction) | ✅ |
 ---
 
 ## 🛠️ Tech Stack

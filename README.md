@@ -4,7 +4,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 
 ## 🎯 The Goal
 - **Target:** Data Science / ML Engineering Internship (Semester 5).
-- **Current Phase:** Python Foundations & Data Handling.
+- **Current Phase:** Math for Machine Learning.
 - **Methodology:** The "Sandwich Routine" (1hr Theory in AM, 1.5hr Coding in PM).
 
 ---
@@ -53,8 +53,8 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.10+
-- **Environment:** VS Code, Jupyter Notebooks , Google Colab
-- **Libraries (Learning):** NumPy, Pandas, Matplotlib
+- **Environment:** VS Code, Jupyter Notebooks , Google Colab.
+- **Libraries (Learning):** NumPy, Pandas, Matplotlib, Seaborn.
 
 ---
 *Follow my journey! Star ⭐ this repo if you find my daily logic challenges useful.*

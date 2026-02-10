@@ -49,6 +49,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 27 | Feature Engineering | Titanic Project V2 (Title Extraction) | ✅ |
 | 28 | Statistics Fundamentals | Mean/Median (Titanic) & Outliers (Tips) | ✅ |
 | 29 | Statistics (Relationships) | Correlation Heatmap (Diamonds) | ✅ |
+| 30 | Mathematics (Linear Algebra) | Student Similarity Finder (Vectors, Dot Product, Cosine Similarity) | ✅ |
 ---
 
 ## 🛠️ Tech Stack

@@ -50,6 +50,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 28 | Statistics Fundamentals | Mean/Median (Titanic) & Outliers (Tips) | ✅ |
 | 29 | Statistics (Relationships) | Correlation Heatmap (Diamonds) | ✅ |
 | 30 | Mathematics (Linear Algebra) | Student Similarity Finder (Vectors, Dot Product, Cosine Similarity) | ✅ |
+| 31 | Mathematics (Linear Algebra) | Matrix Basics & Multiplication (Manual + NumPy) | ✅ |
 ---
 
 ## 🛠️ Tech Stack

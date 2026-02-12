@@ -51,6 +51,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 29 | Statistics (Relationships) | Correlation Heatmap (Diamonds) | ✅ |
 | 30 | Mathematics (Linear Algebra) | Student Similarity Finder (Vectors, Dot Product, Cosine Similarity) | ✅ |
 | 31 | Mathematics (Linear Algebra) | Matrix Basics & Multiplication (Manual + NumPy) | ✅ |
+| 32 | Mathematics (Linear Algebra) | Solving Linear Systems (Ax = b) – Gym Revenue Model | ✅ |
 ---
 
 ## 🛠️ Tech Stack

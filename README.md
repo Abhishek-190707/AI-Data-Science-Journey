@@ -53,6 +53,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 31 | Mathematics (Linear Algebra) | Matrix Basics & Multiplication (Manual + NumPy) | ✅ |
 | 32 | Mathematics (Linear Algebra) | Solving Linear Systems (Ax = b) – Gym Revenue Model | ✅ |
 | 33 | Mathematics (Linear Algebra) | Eigenvalues & Eigenvectors  | ✅ |
+| 34 | Mathematics (Linear Algebra) | Determinant & Invertibility (Singular Matrix Analysis) | ✅ |
 ---
 
 ## 🛠️ Tech Stack

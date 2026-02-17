@@ -56,6 +56,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 34 | Mathematics (Linear Algebra) | Determinant & Invertibility (Singular Matrix Analysis) | ✅ |
 | 35 | Mathematics (Linear Algebra) | 2D Transformation Visualization (Determinant, Eigenvectors & Matrix Analyzer Tool) | ✅ |
 | 36 | Mathematics (Linear Algebra) | Linear Regression via Normal Equation (Matrix Implementation) | ✅ |
+| 37 | Mathematics (Probability & Statistics) | Random Variables, Expectation & Variance (Simulation) | ✅ |
 ---
 
 ## 🛠️ Tech Stack

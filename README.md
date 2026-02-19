@@ -58,6 +58,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 36 | Mathematics (Linear Algebra) | Linear Regression via Normal Equation (Matrix Implementation) | ✅ |
 | 37 | Mathematics (Probability & Statistics) | Random Variables, Expectation & Variance (Simulation) | ✅ |
 | 38 | Mathematics (Probability & Statistics) | Variance & Standard Deviation (Spread Analysis & Simulation) | ✅ |
+| 39 | Mathematics (Probability & Statistics) | Law of Large Numbers & Central Limit Theorem (Simulation & Sampling) | ✅ |
 ---
 
 ## 🛠️ Tech Stack

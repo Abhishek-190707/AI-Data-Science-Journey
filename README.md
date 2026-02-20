@@ -59,6 +59,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 37 | Mathematics (Probability & Statistics) | Random Variables, Expectation & Variance (Simulation) | ✅ |
 | 38 | Mathematics (Probability & Statistics) | Variance & Standard Deviation (Spread Analysis & Simulation) | ✅ |
 | 39 | Mathematics (Probability & Statistics) | Law of Large Numbers & Central Limit Theorem (Simulation & Sampling) | ✅ |
+| 40 | Mathematics (Probability & Statistics) | Normal Distribution & Z-Score (Standardization & Outlier Detection) | ✅ |
 ---
 
 ## 🛠️ Tech Stack

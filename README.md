@@ -17,7 +17,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 
 ---
 
-## 📈 Learning Log (Week 3)
+## 📈 Learning Log (Week 6)
 | Day | Topic | Lab/Project | Status |
 | :--- | :--- | :--- | :--- |
 | 01 | Env Setup | VS Code + GitHub Link | ✅ |

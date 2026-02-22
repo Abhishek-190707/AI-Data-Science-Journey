@@ -61,6 +61,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 39 | Mathematics (Probability & Statistics) | Law of Large Numbers & Central Limit Theorem (Simulation & Sampling) | ✅ |
 | 40 | Mathematics (Probability & Statistics) | Normal Distribution & Z-Score (Standardization & Outlier Detection) | ✅ |
 | 41 | Mathematics (Probability & Statistics) | Confidence Intervals & Margin of Error (Sampling Simulation) | ✅ |
+| 42 | Mathematics (Probability & Statistics) | Integration Day – LLN, CLT & Confidence Intervals (Full Simulation) | ✅ |
 ---
 
 ## 🛠️ Tech Stack

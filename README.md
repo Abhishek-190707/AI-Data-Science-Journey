@@ -63,6 +63,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 41 | Mathematics (Probability & Statistics) | Confidence Intervals & Margin of Error (Sampling Simulation) | ✅ |
 | 42 | Mathematics (Probability & Statistics) | Integration Day – LLN, CLT & Confidence Intervals (Full Simulation) | ✅ |
 | 43 | **Rest Day** | ⏸️ Recharged | Scheduled break. No code written. |
+| 44 | Mathematics (Probability & Statistics) | Hypothesis Testing & Z-Test (P-value & Statistical Decision Making) | ✅ |
 ---
 
 ## 🛠️ Tech Stack

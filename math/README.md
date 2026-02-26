@@ -33,3 +33,28 @@ This phase builds the mathematical intuition required to:
 - debug models
 - interpret optimization
 - avoid “black-box” learning
+
+
+## Learning Log 
+| Day | Topic | Lab/Project | Status |
+| :--- | :--- | :--- | :--- |
+| 28 | Statistics Fundamentals | Mean/Median (Titanic) & Outliers (Tips) | ✅ |
+| 29 | Statistics (Relationships) | Correlation Heatmap (Diamonds) | ✅ |
+| 30 | Mathematics (Linear Algebra) | Student Similarity Finder (Vectors, Dot Product, Cosine Similarity) | ✅ |
+| 31 | Mathematics (Linear Algebra) | Matrix Basics & Multiplication (Manual + NumPy) | ✅ |
+| 32 | Mathematics (Linear Algebra) | Solving Linear Systems (Ax = b) – Gym Revenue Model | ✅ |
+| 33 | Mathematics (Linear Algebra) | Eigenvalues & Eigenvectors  | ✅ |
+| 34 | Mathematics (Linear Algebra) | Determinant & Invertibility (Singular Matrix Analysis) | ✅ |
+| 35 | Mathematics (Linear Algebra) | 2D Transformation Visualization (Determinant, Eigenvectors & Matrix Analyzer Tool) | ✅ |
+| 36 | Mathematics (Linear Algebra) | Linear Regression via Normal Equation (Matrix Implementation) | ✅ |
+| 37 | Mathematics (Probability & Statistics) | Random Variables, Expectation & Variance (Simulation) | ✅ |
+| 38 | Mathematics (Probability & Statistics) | Variance & Standard Deviation (Spread Analysis & Simulation) | ✅ |
+| 39 | Mathematics (Probability & Statistics) | Law of Large Numbers & Central Limit Theorem (Simulation & Sampling) | ✅ |
+| 40 | Mathematics (Probability & Statistics) | Normal Distribution & Z-Score (Standardization & Outlier Detection) | ✅ |
+| 41 | Mathematics (Probability & Statistics) | Confidence Intervals & Margin of Error (Sampling Simulation) | ✅ |
+| 42 | Mathematics (Probability & Statistics) | Integration Day – LLN, CLT & Confidence Intervals (Full Simulation) | ✅ |
+| 43 | **Rest Day** | ⏸️ Recharged | Scheduled break. No code written. |
+| 44 | Mathematics (Probability & Statistics) | Hypothesis Testing & Z-Test (P-value & Statistical Decision Making) | ✅ |
+| 45 | Mathematics (Statistics) | T-Test vs Z-Test Comparison & Convergence Analysis | ✅ |
+| 46 | Mathematics (Statistics) | Type I & Type II Errors and Power Simulation | ✅ |
+---

@@ -65,6 +65,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | 43 | **Rest Day** | ⏸️ Recharged | Scheduled break. No code written. |
 | 44 | Mathematics (Probability & Statistics) | Hypothesis Testing & Z-Test (P-value & Statistical Decision Making) | ✅ |
 | 45 | Mathematics (Statistics) | T-Test vs Z-Test Comparison & Convergence Analysis | ✅ |
+| 46 | Mathematics (Statistics) | Type I & Type II Errors and Power Simulation | ✅ |
 ---
 
 ## 🛠️ Tech Stack

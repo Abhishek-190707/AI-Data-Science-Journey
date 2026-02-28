@@ -58,4 +58,5 @@ This phase builds the mathematical intuition required to:
 | 45 | Mathematics (Statistics) | T-Test vs Z-Test Comparison & Convergence Analysis | ✅ |
 | 46 | Mathematics (Statistics) | Type I & Type II Errors and Power Simulation | ✅ |
 | 47 | Mathematics (Regression Inference) | Manual Linear Regression, Residuals & Residual Variance (n-2 d.f.) | ✅ |
+| 48 | Mathematics (Regression Inference) | Standard Error, t-Statistic, p-Value & Confidence Interval for Slope | ✅ |
 ---

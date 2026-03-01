@@ -59,4 +59,5 @@ This phase builds the mathematical intuition required to:
 | 46 | Mathematics (Statistics) | Type I & Type II Errors and Power Simulation | ✅ |
 | 47 | Mathematics (Regression Inference) | Manual Linear Regression, Residuals & Residual Variance (n-2 d.f.) | ✅ |
 | 48 | Mathematics (Regression Inference) | Standard Error, t-Statistic, p-Value & Confidence Interval for Slope | ✅ |
+| 49 | Mathematics (Regression Diagnostics) | Residual Analysis, Assumptions & R² Evaluation | ✅ |
 ---

@@ -17,16 +17,10 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 
 ---
 
-## 📈 Learning Log (Week 6)
+## 📈 Learning Log (Week 7)
 | Day | Topic | Lab/Project | Status |
 | :--- | :--- | :--- | :--- |
-| 43 | **Rest Day** | ⏸️ Recharged | Scheduled break. No code written. |
-| 44 | Mathematics (Probability & Statistics) | Hypothesis Testing & Z-Test (P-value & Statistical Decision Making) | ✅ |
-| 45 | Mathematics (Statistics) | T-Test vs Z-Test Comparison & Convergence Analysis | ✅ |
-| 46 | Mathematics (Statistics) | Type I & Type II Errors and Power Simulation | ✅ |
-| 47 | Mathematics (Regression Inference) | Manual Linear Regression, Residuals & Residual Variance (n-2 d.f.) | ✅ |
-| 48 | Mathematics (Regression Inference) | Standard Error, t-Statistic, p-Value & Confidence Interval for Slope | ✅ |
-| 49 | Mathematics (Regression Diagnostics) | Residual Analysis, Assumptions & R² Evaluation | ✅ |
+| 50 | Mathematics (Multiple Regression) | Matrix Form & Normal Equation for Multiple Features | ✅ |
 ---
 
 ## 🛠️ Tech Stack

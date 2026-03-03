@@ -21,6 +21,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | Day | Topic | Lab/Project | Status |
 | :--- | :--- | :--- | :--- |
 | 50 | Mathematics (Multiple Regression) | Matrix Form & Normal Equation for Multiple Features | ✅ |
+| 51 | Mathematics (Multiple Regression) | Multicollinearity & Matrix Instability Analysis | ✅ |
 ---
 
 ## 🛠️ Tech Stack

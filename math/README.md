@@ -61,4 +61,5 @@ This phase builds the mathematical intuition required to:
 | 48 | Mathematics (Regression Inference) | Standard Error, t-Statistic, p-Value & Confidence Interval for Slope | ✅ |
 | 49 | Mathematics (Regression Diagnostics) | Residual Analysis, Assumptions & R² Evaluation | ✅ |
 | 50 | Mathematics (Multiple Regression) | Matrix Form & Normal Equation for Multiple Features | ✅ |
+| 51 | Mathematics (Multiple Regression) | Multicollinearity & Matrix Instability Analysis | ✅ |
 ---

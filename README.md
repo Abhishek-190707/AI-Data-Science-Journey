@@ -22,6 +22,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 | :--- | :--- | :--- | :--- |
 | 50 | Mathematics (Multiple Regression) | Matrix Form & Normal Equation for Multiple Features | ✅ |
 | 51 | Mathematics (Multiple Regression) | Multicollinearity & Matrix Instability Analysis | ✅ |
+| 52 | Mathematics (Regularization) | Ridge Regression & Regularized Normal Equation | ✅ |
 ---
 
 ## 🛠️ Tech Stack

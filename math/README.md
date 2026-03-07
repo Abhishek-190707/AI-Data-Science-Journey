@@ -63,4 +63,5 @@ This phase builds the mathematical intuition required to:
 | 50 | Mathematics (Multiple Regression) | Matrix Form & Normal Equation for Multiple Features | ✅ |
 | 51 | Mathematics (Multiple Regression) | Multicollinearity & Matrix Instability Analysis | ✅ |
 | 52 | Mathematics (Regularization) | Ridge Regression & Regularized Normal Equation | ✅ |
+| 53 | Mathematics (Regularization) | Lasso Regression & Feature Selection | ✅ |
 ---

@@ -65,4 +65,5 @@ This phase builds the mathematical intuition required to:
 | 52 | Mathematics (Regularization) | Ridge Regression & Regularized Normal Equation | ✅ |
 | 53 | Mathematics (Regularization) | Lasso Regression & Feature Selection | ✅ |
 | 54 | Machine Learning Foundations | Bias–Variance Tradeoff Simulation | ✅ |
+| 55 | Machine Learning Foundations | Train/Test Split & Model Validation | ✅ |
 ---

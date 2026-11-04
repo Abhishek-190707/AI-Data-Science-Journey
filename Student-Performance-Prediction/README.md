@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="images/project-banner.jpeg" width="100%">
+</p>
 
 # 🎓 Student Performance Prediction
 

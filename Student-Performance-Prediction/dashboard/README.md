@@ -1,6 +1,7 @@
 # Student Performance Prediction Dashboard
 
 A Streamlit dashboard for the UCI Student Performance Mathematics dataset.
+https://ai-data-science-journey-cn4sjr9a4s3ruhxhi6nkj6.streamlit.app/
 
 ## Dashboard sections
 1. **Student Data Analysis** — dataset overview, grade distribution, study time and absences visualizations.

@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
+from pathlib import Path
 
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder
@@ -48,7 +49,15 @@ def load_data(uploaded_file, local_file_mtime):
     if uploaded_file is not None:
         data = pd.read_csv(uploaded_file, sep=None, engine="python")
     else:
-        data = pd.read_csv("student-mat.csv", sep=";")
+        # Resolve the CSV relative to this app.py file, not the process
+        # working directory. This is reliable on Streamlit Community Cloud.
+        csv_path = Path(__file__).resolve().parent / "student-mat.csv"
+        if not csv_path.is_file():
+            raise FileNotFoundError(
+                f"Could not find {csv_path.name} beside app.py. "
+                "Add student-mat.csv to the dashboard folder or upload it in the sidebar."
+            )
+        data = pd.read_csv(csv_path, sep=";")
     data.columns = [c.strip() for c in data.columns]
     return data
 
@@ -97,7 +106,10 @@ with st.sidebar:
         type=["csv"],
         help="Use the Mathematics file from the UCI Student Performance dataset."
     )
-    st.caption("If student-mat.csv is in the same folder as app.py, it loads automatically.")
+    st.caption(
+        "The app automatically looks for student-mat.csv in the same folder as app.py. "
+        "You only need the uploader if that file is missing."
+    )
     st.divider()
     st.markdown("**Target:** `G3` (final Mathematics grade)")
     st.markdown("**Dataset:** UCI Student Performance – Mathematics")

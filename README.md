@@ -33,18 +33,30 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 - **Environment:** VS Code, Jupyter Notebooks , Google Colab.
 - **Libraries (Learning):** NumPy, Pandas, Matplotlib, Seaborn.
 
+---
 
-Machine Learning Projects
+## 🤖 Machine Learning Projects
 
-1. Student Performance Prediction Using Machine Learning
+### 🎓 Student Performance Prediction
 
-Objective: Developed regression models to predict students' final Mathematics grades using demographic, social and academic information.
+> Predicting students' final Mathematics grades from demographic, social, and academic information.
 
-Dataset: UCI Student Performance Dataset (Mathematics)
+| | |
+|:--|:--|
+| **Dataset** | UCI Student Performance Dataset — Mathematics |
+| **Task** | Regression |
+| **Technologies** | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **Best model** | Random Forest Regression |
 
-Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+#### 📊 Results
 
-Models Implemented:
+| Metric | Score |
+|:--|--:|
+| **MAE** | 1.0482 |
+| **RMSE** | 1.7359 |
+| **R²** | 0.8530 |
+
+#### 🧪 Models Compared
 
 - Linear Regression
 - Ridge Regression
@@ -53,15 +65,10 @@ Models Implemented:
 - Hyperparameter-Tuned Random Forest
 - Early Prediction Random Forest
 
-Best Model Results:
+**Key work:** Exploratory data analysis, feature selection, model optimization, cross-validation, residual analysis, and learning curves.
 
-- MAE: 1.0482
-- RMSE: 1.7359
-- R² Score: 0.8530
-
-Key Work: Exploratory Data Analysis, feature selection, model optimization, cross-validation, residual analysis and learning curves.
-
-Project Files: "View Student Performance Prediction" (./Student-Performance-Prediction/)
+📁 **Project files:** [View the Student Performance Prediction project](./Student-Performance-Prediction/)
 
 ---
+
 *Follow my journey! Star ⭐ this repo if you find my daily logic challenges useful.*

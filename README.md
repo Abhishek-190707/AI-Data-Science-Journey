@@ -33,5 +33,35 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 - **Environment:** VS Code, Jupyter Notebooks , Google Colab.
 - **Libraries (Learning):** NumPy, Pandas, Matplotlib, Seaborn.
 
+
+Machine Learning Projects
+
+1. Student Performance Prediction Using Machine Learning
+
+Objective: Developed regression models to predict students' final Mathematics grades using demographic, social and academic information.
+
+Dataset: UCI Student Performance Dataset (Mathematics)
+
+Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
+Models Implemented:
+
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- Random Forest Regression
+- Hyperparameter-Tuned Random Forest
+- Early Prediction Random Forest
+
+Best Model Results:
+
+- MAE: 1.0482
+- RMSE: 1.7359
+- R² Score: 0.8530
+
+Key Work: Exploratory Data Analysis, feature selection, model optimization, cross-validation, residual analysis and learning curves.
+
+Project Files: "View Student Performance Prediction" (./Student-Performance-Prediction/)
+
 ---
 *Follow my journey! Star ⭐ this repo if you find my daily logic challenges useful.*

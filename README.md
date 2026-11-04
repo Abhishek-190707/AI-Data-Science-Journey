@@ -37,7 +37,7 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 
 ## 🤖 Machine Learning Projects
 
-### 🎓 Student Performance Prediction
+### Project 1: 🎓 Student Performance Prediction
 
 > Predicting students' final Mathematics grades from demographic, social, and academic information.
 
@@ -67,7 +67,9 @@ Welcome to my learning laboratory! This repository documents my 1.5-year journey
 
 **Key work:** Exploratory data analysis, feature selection, model optimization, cross-validation, residual analysis, and learning curves.
 
-📁 **Project files:** [View the Student Performance Prediction project](./Student-Performance-Prediction/)
+📁 **Project 1 files:** [View the Student Performance Prediction project](./Student-Performance-Prediction/)
+
+*More machine learning projects will be added here.*
 
 ---
 
